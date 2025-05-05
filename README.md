@@ -53,15 +53,7 @@ CREATE TABLE players (
    ```
 4. Run the program! 🎉
 
----
-
-## 📸 Screenshot
-
-> *(Add a screenshot of your GUI here for better presentation)*
-
----
-
 ## 🙌 Author
 
-Made with ❤️ by `Your Name`
+Made By Ravi visvesh
 
